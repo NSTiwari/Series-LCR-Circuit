@@ -1,0 +1,1 @@
+# Series-LCR-Circuit
